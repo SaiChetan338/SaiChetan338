@@ -35,7 +35,7 @@ Computer Science student passionate about **Software Development**, **Blockchain
 
 ---
 
-### 🚀 Projects
+### 🚀 Projects:
 
 **Nivasa – Apartment Administration System**  
 *React, Node.js, MongoDB*  
